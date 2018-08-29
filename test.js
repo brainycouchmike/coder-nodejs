@@ -1,0 +1,1 @@
+document.addEventListener('click', ev => alert('You clicked it!'));
